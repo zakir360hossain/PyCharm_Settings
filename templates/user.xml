@@ -1,0 +1,18 @@
+<templateSet group="user">
+  <template name="pd" value="/**&#10; * Requirement&#10; */&#10;&#10;/**&#10; * @author Zakir Hossain&#10; * Date&#10; * &#9;&#9;&#9;Program Description&#10; *&#10; */" description="Generates a program description template" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="scan" value="Scanner input = new Scanner(System.in);" description="Generates  the scanner setup line" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="util" value="import java.util.*;" description="Shortcut template for java util" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
