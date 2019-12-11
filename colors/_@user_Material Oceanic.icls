@@ -4,7 +4,7 @@
     <property name="created">2019-12-10T08:11:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-10T14:11:19</property>
+    <property name="modified">2019-12-10T23:02:16</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -389,6 +389,12 @@
         <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="27a80e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Closure braces">
@@ -1215,13 +1221,16 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
@@ -2484,8 +2493,6 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2617,6 +2624,11 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="PARENTHESIS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="ffe52a" />
+      </value>
+    </option>
     <option name="PHP.USE_NAMESPACE">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -2730,9 +2742,52 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="ff55b2" />
+      </value>
+    </option>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="e9a04" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="c55cea" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FRAGMENT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="ffe52a" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FRAGMENT_COLON">
+      <value>
+        <option name="FOREGROUND" value="ea3e7" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FRAGMENT_TYPE_CONVERSION">
+      <value>
+        <option name="FOREGROUND" value="8bbcff" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="aceaf8" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="1a91ff" />
       </value>
     </option>
     <option name="PY.KEYWORD">
@@ -2743,24 +2798,50 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="e64f1d" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7394a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="1a91ff" />
+      </value>
+    </option>
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="5d97f7" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="2f7bd" />
+      </value>
+    </option>
+    <option name="PY.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="d6d600" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="a916ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="a916ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="946dda" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2769,9 +2850,14 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="PY.STRING.B">
+    <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="a9ed70" />
+      </value>
+    </option>
+    <option name="PY.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="12ff43" />
       </value>
     </option>
     <option name="RDOC_DIRECTIVE">
