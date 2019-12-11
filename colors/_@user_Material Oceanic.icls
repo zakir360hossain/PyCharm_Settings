@@ -4,18 +4,13 @@
     <property name="created">2019-12-10T08:11:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-10T23:39:27</property>
+    <property name="modified">2019-12-10T23:54:32</property>
     <property name="originalScheme">Material Oceanic</property>
+    <property name="rainbow Python">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -2486,7 +2481,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="ffff00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2814,7 +2809,7 @@
     </option>
     <option name="PY.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="2f7bd" />
+        <option name="FOREGROUND" value="80d4f7" />
       </value>
     </option>
     <option name="PY.PARENTHS">
