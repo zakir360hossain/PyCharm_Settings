@@ -1,21 +1,20 @@
-<scheme name="_@user_Material Oceanic" version="142">
+<scheme name="Material Oceanic copy" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-12-10T08:11:37</property>
+    <property name="created">2019-12-11T00:39:30</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-11T01:04:36</property>
-    <property name="originalScheme">Material Oceanic</property>
-    <property name="rainbow Python">false</property>
+    <property name="modified">2019-12-11T00:40:35</property>
+    <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -28,8 +27,8 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="CARET_COLOR" value="31dfff" />
-    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CARET_COLOR" value="ffcc00" />
+    <option name="CARET_ROW_COLOR" value="1b2529" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -156,8 +155,8 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="32424a" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
       </value>
     </option>
     <option name="BRACE_ATTR">
@@ -996,6 +995,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
     <option name="IGNORE.BRACKET">
@@ -2773,7 +2773,7 @@
     </option>
     <option name="PY.FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="1a91ff" />
+        <option name="FOREGROUND" value="6b88ff" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
@@ -3459,6 +3459,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4a4d50" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
