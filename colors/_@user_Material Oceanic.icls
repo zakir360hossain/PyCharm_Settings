@@ -4,7 +4,7 @@
     <property name="created">2019-12-10T08:11:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-15T23:03:34</property>
+    <property name="modified">2019-12-15T23:10:13</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -2787,7 +2787,7 @@
     </option>
     <option name="PY.NUMBER">
       <value>
-        <option name="FOREGROUND" value="80d4f7" />
+        <option name="FOREGROUND" value="54a7ff" />
       </value>
     </option>
     <option name="PY.PARAMETER">
