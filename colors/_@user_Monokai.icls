@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-04T01:56:31</property>
+    <property name="modified">2020-01-04T02:51:57</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -1623,7 +1623,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="c2c2bc" />
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>
