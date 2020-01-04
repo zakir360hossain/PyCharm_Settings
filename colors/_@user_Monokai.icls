@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-04T00:48:21</property>
+    <property name="modified">2020-01-04T01:56:31</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -321,13 +321,13 @@
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e3e3ff" />
+        <option name="FOREGROUND" value="66d9e5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fda5ff" />
+        <option name="FOREGROUND" value="a503c8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1176,7 +1176,11 @@
         <option name="BACKGROUND" value="f92672" />
       </value>
     </option>
-    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="6f888" />
