@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-04T00:15:38</property>
+    <property name="modified">2020-01-04T00:30:38</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -1179,7 +1179,6 @@
     <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
@@ -1207,7 +1206,12 @@
         <option name="FOREGROUND" value="9803bc" />
       </value>
     </option>
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="9803bc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f330ff" />
