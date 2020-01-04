@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-03T23:50:07</property>
+    <property name="modified">2020-01-04T00:15:38</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -510,7 +510,7 @@
     <option name="DEFAULT_PARENTHS" baseAttributes="" />
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FOREGROUND" value="ef340d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -600,7 +600,6 @@
         <option name="FOREGROUND" value="c7c7ff" />
         <option name="BACKGROUND" value="161717" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="c7c7ff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -801,19 +800,24 @@
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="c7c7ff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c3c57" />
+        <option name="BACKGROUND" value="32424a" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
+      </value>
+    </option>
+    <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="7f7b63" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1142,6 +1146,7 @@
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
@@ -1202,11 +1207,7 @@
         <option name="FOREGROUND" value="9803bc" />
       </value>
     </option>
-    <option name="PY.PREDEFINED_USAGE">
-      <value>
-        <option name="FOREGROUND" value="66d9ef" />
-      </value>
-    </option>
+    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f330ff" />
@@ -1643,15 +1644,13 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="583535" />
+        <option name="BACKGROUND" value="32424a" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a3f10" />
-        <option name="EFFECT_COLOR" value="f8f8f2" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="BACKGROUND" value="27343c" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
