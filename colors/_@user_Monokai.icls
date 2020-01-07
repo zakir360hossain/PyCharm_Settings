@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-07T00:13:04</property>
+    <property name="modified">2020-01-07T00:43:19</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -460,7 +460,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="fffff9" />
+        <option name="FOREGROUND" value="fff5f0" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -470,7 +470,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="49adff" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -1149,7 +1149,7 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FOREGROUND" value="bffa0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1171,7 +1171,7 @@
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="2694e2" />
       </value>
     </option>
     <option name="PY.INVALID_STRING_ESCAPE">
@@ -1187,22 +1187,33 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="6f888" />
+        <option name="FOREGROUND" value="f84107" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9f9b7d" />
+        <option name="FOREGROUND" value="85867d" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="2694e2" />
       </value>
     </option>
     <option name="PY.NUMBER">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="e993eb" />
       </value>
     </option>
     <option name="PY.OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="958dff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
@@ -1627,7 +1638,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c2c2bc" />
+        <option name="FOREGROUND" value="f2f2ec" />
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>
