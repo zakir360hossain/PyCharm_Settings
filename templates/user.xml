@@ -10,12 +10,6 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="rnd" value="java.util.Random input2 = new java.util.Random();" description="template for random" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
   <template name="scan" value="java.util.Scanner input = new java.util.Scanner(java.lang.System.in);" description="Scanner template" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
@@ -25,6 +19,12 @@
   <template name="pd" value="/**&#10; * @author Zakir Hossain&#10; * Jan 2, 2020&#10; *  Program descriptio&#10; */" description="Program description" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="rnd" value="java.util.Random random = new java.util.Random();" description="Random Template" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
