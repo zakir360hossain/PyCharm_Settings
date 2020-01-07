@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-04T02:51:57</property>
+    <property name="modified">2020-01-07T00:09:41</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -458,7 +458,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -1178,7 +1183,7 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FOREGROUND" value="f9680e" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
@@ -1214,7 +1219,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f330ff" />
+        <option name="FOREGROUND" value="e993eb" />
       </value>
     </option>
     <option name="PY.STRING">
