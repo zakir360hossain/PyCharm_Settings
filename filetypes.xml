@@ -5,6 +5,7 @@
       <mapping pattern="SOLID" type="PLAIN_TEXT" />
       <mapping pattern="VarityLearning" type="PLAIN_TEXT" />
       <mapping pattern="Naming Convention" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
       <removed_mapping pattern="*?" approved="true" type="cc" />
     </extensionMap>
   </component>
