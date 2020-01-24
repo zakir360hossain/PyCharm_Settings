@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-07T00:43:19</property>
+    <property name="modified">2020-01-24T18:23:17</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -214,6 +214,11 @@
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b4b4b4" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
@@ -246,7 +251,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="8498c2" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -256,7 +261,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e4e4ff" />
+        <option name="FOREGROUND" value="6f6f6f" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -940,11 +945,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
