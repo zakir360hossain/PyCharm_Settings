@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-24T18:21:47</property>
+    <property name="modified">2020-01-24T18:26:03</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -1140,7 +1140,6 @@
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
-        <option name="EFFECT_COLOR" value="a4a49f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
