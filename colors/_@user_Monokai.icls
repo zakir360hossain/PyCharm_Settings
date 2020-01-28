@@ -3,7 +3,7 @@
     <property name="created">2020-01-03T22:57:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-24T18:26:03</property>
+    <property name="modified">2020-01-27T20:39:18</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -782,6 +782,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
@@ -858,7 +861,7 @@
     </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="a29e89" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
@@ -886,7 +889,7 @@
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="a8a48a" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
@@ -936,6 +939,9 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LABEL">
       <value>
         <option name="FOREGROUND" value="f92672" />
@@ -953,7 +959,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a6da0" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -1611,7 +1618,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="cfcfca" />
+        <option name="FOREGROUND" value="e5e5e0" />
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>
