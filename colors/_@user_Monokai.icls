@@ -1,10 +1,15 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2020-01-03T22:57:57</property>
+    <property name="description" />
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-02-11T22:54:39</property>
+    <property name="modified">2020-02-19T12:20:50</property>
     <property name="originalScheme">Monokai</property>
+    <property name="vendorMail" />
+    <property name="vendorName">Color Theme</property>
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
@@ -937,11 +942,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
