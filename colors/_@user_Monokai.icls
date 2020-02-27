@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-02-26T22:32:24</property>
+    <property name="modified">2020-02-26T22:37:52</property>
     <property name="originalScheme">Monokai</property>
     <property name="vendorMail" />
     <property name="vendorName">Color Theme</property>
@@ -1634,7 +1634,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="879fb4" />
+        <option name="FOREGROUND" value="cacaca" />
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>
