@@ -4,7 +4,7 @@
     <property name="created">2020-03-02T21:22:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-02T21:23:54</property>
+    <property name="modified">2020-03-02T21:25:06</property>
     <property name="originalScheme">Monokai Pro (Filter Spectrum)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1229,7 +1229,15 @@
         <option name="FOREGROUND" value="fc618d" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -2575,10 +2583,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="363537" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="f7f1ff" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
