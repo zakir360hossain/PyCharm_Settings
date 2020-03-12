@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="define" type="PLAIN_TEXT" />
       <mapping pattern="Naming Convention" type="PLAIN_TEXT" />
-      <mapping pattern="definition" type="PLAIN_TEXT" />
       <mapping pattern="SOLID" type="PLAIN_TEXT" />
+      <mapping pattern="define" type="PLAIN_TEXT" />
+      <mapping pattern="definition" type="PLAIN_TEXT" />
       <mapping pattern="VarityLearning" type="PLAIN_TEXT" />
-      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
       <removed_mapping pattern="*?" approved="true" type="cc" />
     </extensionMap>
   </component>
