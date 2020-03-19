@@ -3,7 +3,7 @@
     <property name="created">2019-12-05T16:42:29</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-03-13T00:03:40</property>
+    <property name="modified">2020-03-19T09:35:26</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -18,11 +18,6 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
