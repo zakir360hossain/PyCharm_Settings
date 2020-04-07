@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-04-06T21:52:09</property>
+    <property name="modified">2020-04-06T23:12:57</property>
     <property name="originalScheme">Monokai</property>
     <property name="vendorMail" />
     <property name="vendorName">Color Theme</property>
@@ -1200,7 +1200,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="766a57" />
+        <option name="FOREGROUND" value="867a64" />
       </value>
     </option>
     <option name="PY.METHOD_CALL">
